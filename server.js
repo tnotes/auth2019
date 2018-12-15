@@ -3,4 +3,4 @@ const app = express();
 app.get('/',(req,res)=>{
     res.send(true)
 });
-app.listen(3000 || process.env.PORT);
+app.listen(process.env.PORT || 3000);
