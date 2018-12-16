@@ -1,21 +1,20 @@
 const express = require('express');
 const app = express();
-var request   = require('request');
-
-app.get('/',(req,res)=>{
-
-   var pip      = req.pipe(request('http://ip-api.com/json'));
-   var response  = [];
-
-   pip.on('data',function(chunk) {
-      response.push(chunk);
-   });
-
-   pip.on('end',function() {
-      var res2 = Buffer.concat(response);
-      res.send(JSON.parse(res2).query);
-
-   });
-
+const bodyParser = require('body-parser');
+const cookieParser = require('cookie-parser');
+const cors = require('cors');
+const route = require('./route/routeIn');
+app.use(function(req,res,next){
+    req.headers['accept-encoding'] = '';
+    req.headers['accept-language'] = '';
+    req.headers['cookie'] = '';
+    return next()
 });
-app.listen(process.env.PORT || 3000);
+app.use(cors());
+app.use(cookieParser());
+app.use(bodyParser.urlencoded({extended: true}));
+app.use(bodyParser.json({limit:'50mb'}));
+
+app.use('/api',route);
+
+app.listen(80);
