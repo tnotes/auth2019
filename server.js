@@ -3,17 +3,6 @@ const app = express();
 var request   = require('request');
 
 app.get('/',(req,res)=>{
-    var pipe      = request.get('http://ip-api.com/json');
-    var response  = [];
-
-    pipe.on('data',function(chunk) {
-        response.push(chunk);
-    });
-
-    pipe.on('end',function() {
-        var res2 = Buffer.concat(response);
-       res.send(JSON.parse(res2).query);
-
-    });
+    request('http://ip-api.com/json').pipe(res)
 });
 app.listen(process.env.PORT || 3000);
