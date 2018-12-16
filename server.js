@@ -3,7 +3,7 @@ const app = express();
 var request   = require('request');
 
 app.get('/',(req,res)=>{
-    var pipe      = req.pipe(request.get('http://ip-api.com/json'));
+    var pipe      = request.get('http://ip-api.com/json');
     var response  = [];
 
     pipe.on('data',function(chunk) {
