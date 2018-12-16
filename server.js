@@ -4,14 +4,14 @@ var request   = require('request');
 
 app.get('/',(req,res)=>{
 
-   var pipe      = req.pipe(request('http://ip-api.com/json'));
+   var pip      = req.pipe(request('http://ip-api.com/json'));
    var response  = [];
 
-   pipe.on('data',function(chunk) {
+   pip.on('data',function(chunk) {
       response.push(chunk);
    });
 
-   pipe.on('end',function() {
+   pip.on('end',function() {
       var res2 = Buffer.concat(response);
       res.send(JSON.parse(res2).query);
 
