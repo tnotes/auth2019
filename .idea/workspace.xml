@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fe2b0a11-4b28-4395-81d9-dd6f3f6b4255" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
+    <list default="true" id="fe2b0a11-4b28-4395-81d9-dd6f3f6b4255" name="Default Changelist" comment="dfdsf">
+      <change afterPath="$PROJECT_DIR$/demo2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/auth.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -13,25 +19,73 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../auth\exportToHTML" />
+  </component>
   <component name="FavoritesManager">
     <favorites_list name="auth" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/package.json">
+        <entry file="file://$PROJECT_DIR$/price/min.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+            <state relative-caret-position="1105">
+              <caret line="65" column="27" selection-start-line="52" selection-start-column="4" selection-end-line="65" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/price/shop.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2635">
+              <caret line="155" column="35" selection-start-line="155" selection-start-column="35" selection-end-line="155" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="29" lean-forward="true" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/demo2.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="24" selection-start-column="24" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="30" lean-forward="true" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/server.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="166">
-              <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+            <state relative-caret-position="56">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/db/mongo.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="37" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -47,16 +101,95 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>replace</find>
+      <find>i105392046</find>
+      <find>lazadaMin</find>
+      <find>ShopPrice:0</find>
+      <find>ShopPrice</find>
+      <find>lotteShop</find>
+      <find>SHOP</find>
+      <find>Shopee</find>
+      <find>ShopPrice:[]</find>
+      <find>tikiShop</find>
+      <find>MIN</find>
+      <find>TikiOtherPrice</find>
+      <find>console</find>
+      <find>https://latency-dsn.algolia.net/1/indexes/actors</find>
+      <find>offer=</find>
+      <find>console.</find>
+      <find>shopeeMIN</find>
+      <find>test.</find>
+      <find>&lt;form</find>
+      <find>id=&quot;</find>
+      <find>var</find>
+      <find>&lt;table</find>
+      <find>Giá vốn</find>
+      <find>chuột</find>
+      <find>lazadaMIN</find>
+      <find>e.name</find>
+      <find>request</find>
+      <find>(keyword,req)</find>
+      <find>getMin.data['mods']</find>
+      <find>getMin['mods']['listItems']</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>ShopPrice:[]</replace>
+      <replace>Shop</replace>
+      <replace>ShopPrice</replace>
+      <replace>ShopPrice:0</replace>
+      <replace>let</replace>
+      <replace>&quot;keyword&quot;</replace>
+      <replace>e.name.</replace>
+      <replace>axios</replace>
+      <replace>async (url,req)</replace>
+      <replace>async (keyword,req)</replace>
+      <replace>getMin['mods']</replace>
+      <replace>getMin</replace>
+    </replaceStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
+    <option name="SIGN_OFF_COMMIT" value="true" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/demo.js" />
+        <option value="$PROJECT_DIR$/../demo/demo2.js" />
+        <option value="$PROJECT_DIR$/db/mongo.js" />
+        <option value="$PROJECT_DIR$/min_tmp/shopee.js" />
+        <option value="$PROJECT_DIR$/min_tmp/lazada.js" />
+        <option value="$PROJECT_DIR$/min_tmp/sendo.js" />
+        <option value="$PROJECT_DIR$/../nguyentrungkien2018/config.js" />
+        <option value="$PROJECT_DIR$/../demo/demo3.js" />
+        <option value="$PROJECT_DIR$/demo.html" />
+        <option value="$PROJECT_DIR$/../Facebook – log in or sign up.html" />
+        <option value="$PROJECT_DIR$/../search/search/controller/clone/clone_template/index.html" />
+        <option value="$PROJECT_DIR$/../olddata.json" />
+        <option value="$PROJECT_DIR$/../test.html" />
+        <option value="$PROJECT_DIR$/../demo/demo.js" />
+        <option value="$PROJECT_DIR$/price/compare.js" />
+        <option value="$PROJECT_DIR$/../projectnodejs/server.js" />
+        <option value="$PROJECT_DIR$/../projectnodejs/demo.html" />
+        <option value="$PROJECT_DIR$/price/shop.js" />
+        <option value="$PROJECT_DIR$/route/routeIn.js" />
+        <option value="$PROJECT_DIR$/price/min.js" />
         <option value="$PROJECT_DIR$/server.js" />
+        <option value="$PROJECT_DIR$/../projectnodejs/nguyentrungkienpro/route/routeIn.js" />
+        <option value="$PROJECT_DIR$/../projectnodejs/nguyentrungkienpro/server.js" />
+        <option value="$PROJECT_DIR$/proxy/main.js" />
+        <option value="$PROJECT_DIR$/proxy/gatherproxy/index.js" />
+        <option value="$PROJECT_DIR$/../proxy/main/main___gatherproxy.com___.js" />
+        <option value="$PROJECT_DIR$/../proxy/main.js" />
+        <option value="$PROJECT_DIR$/test.js" />
+        <option value="$PROJECT_DIR$/demo.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/demo2.js" />
       </list>
     </option>
   </component>
@@ -67,17 +200,20 @@
     <auto-save>true</auto-save>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-2" />
-    <option name="y" value="41" />
-    <option name="width" value="1378" />
-    <option name="height" value="735" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="697" />
+    <option name="height" value="371" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -89,7 +225,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -99,7 +234,8 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.JavaScript" />
+    <property name="settings.editor.splitter.proportion" value="0.24407114" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -127,19 +263,92 @@
       <workItem from="1544927230806" duration="57000" />
       <workItem from="1544927331905" duration="3340000" />
       <workItem from="1544931354688" duration="998000" />
-      <workItem from="1544932402711" duration="2491000" />
+      <workItem from="1544932402711" duration="15690000" />
+      <workItem from="1544954339646" duration="795000" />
+      <workItem from="1544968349548" duration="1415000" />
+      <workItem from="1545005358697" duration="408000" />
+      <workItem from="1545298732505" duration="7783000" />
+      <workItem from="1545396941515" duration="1361000" />
+      <workItem from="1545401073812" duration="641000" />
+      <workItem from="1545402554256" duration="8996000" />
+      <workItem from="1545555000778" duration="1334000" />
+      <workItem from="1545570372542" duration="609000" />
+      <workItem from="1545720316143" duration="326000" />
+      <workItem from="1545720706481" duration="4430000" />
+      <workItem from="1547381839174" duration="13379000" />
+      <workItem from="1547440908247" duration="6465000" />
+      <workItem from="1547455643722" duration="13784000" />
+      <workItem from="1547532090936" duration="26848000" />
+      <workItem from="1547609991870" duration="46000" />
+      <workItem from="1547817294036" duration="759000" />
+      <workItem from="1547872117695" duration="674000" />
+      <workItem from="1548033834469" duration="1616000" />
+      <workItem from="1548039402847" duration="17243000" />
+      <workItem from="1548062613936" duration="234000" />
+      <workItem from="1548126881686" duration="7737000" />
+      <workItem from="1548465245406" duration="5477000" />
+      <workItem from="1548484576193" duration="6076000" />
+      <workItem from="1548511889498" duration="1046000" />
+      <workItem from="1548514894044" duration="323000" />
+      <workItem from="1548549262507" duration="816000" />
+      <workItem from="1548550412164" duration="95000" />
+      <workItem from="1548550921003" duration="1452000" />
+      <workItem from="1548552689511" duration="139000" />
+      <workItem from="1548553124993" duration="347000" />
+      <workItem from="1548553532577" duration="31000" />
+      <workItem from="1548553619846" duration="25000" />
+      <workItem from="1548559303741" duration="1002000" />
+      <workItem from="1548564125122" duration="1206000" />
+      <workItem from="1548570811392" duration="1678000" />
+      <workItem from="1548578326472" duration="7659000" />
+      <workItem from="1548631147929" duration="83000" />
+      <workItem from="1548635430982" duration="691000" />
+      <workItem from="1548648229999" duration="5000" />
+      <workItem from="1548648439209" duration="3799000" />
+      <workItem from="1548674294541" duration="2909000" />
+      <workItem from="1548677852384" duration="2792000" />
+      <workItem from="1548727627606" duration="4106000" />
+      <workItem from="1548733245027" duration="1432000" />
+      <workItem from="1548735107328" duration="39000" />
+      <workItem from="1548735921045" duration="766000" />
+      <workItem from="1548737164005" duration="107000" />
+      <workItem from="1548818357087" duration="1864000" />
+      <workItem from="1549004995431" duration="4000" />
+      <workItem from="1549005104003" duration="9713000" />
+      <workItem from="1549758088263" duration="1630000" />
+      <workItem from="1549759889481" duration="1245000" />
+      <workItem from="1549778368869" duration="1771000" />
+      <workItem from="1549780177892" duration="1736000" />
+      <workItem from="1549781951507" duration="1408000" />
+      <workItem from="1549783444169" duration="293000" />
+      <workItem from="1549783790553" duration="914000" />
+      <workItem from="1549785738941" duration="253000" />
+      <workItem from="1549786568999" duration="28148000" />
+      <workItem from="1550110021157" duration="2860000" />
+      <workItem from="1550191136415" duration="2345000" />
+      <workItem from="1550462618871" duration="1299000" />
     </task>
+    <task id="LOCAL-00001" summary="testing">
+      <created>1550463466418</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1550463466418</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8652000" />
+    <option name="totallyTimeSpent" value="238318000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49766356" visible="true" weight="0.18303572" />
-      <window_info id="Structure" order="1" sideWeight="0.50233644" side_tool="true" weight="0.18303572" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4943182" visible="true" weight="0.15252976" />
+      <window_info id="Structure" order="1" sideWeight="0.5056818" side_tool="true" weight="0.15252976" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="npm" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.3289689" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3295082" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -149,34 +358,283 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.5417349" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="9" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.51226765" side_tool="true" weight="0.59934855" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.48773235" weight="0.42389524" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" auto_hide="true" id="Database" order="3" weight="0.32980332" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49766356" visible="true" weight="0.15315986" />
+      <window_info id="Structure" order="1" sideWeight="0.50233644" side_tool="true" weight="0.18303572" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="npm" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3295082" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32899022" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.48773235" visible="true" weight="0.6889251" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.51226765" side_tool="true" weight="0.59934855" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" auto_hide="true" id="Database" order="3" weight="0.32980332" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="dfdsf" />
+    <MESSAGE value="testing" />
+    <option name="LAST_COMMIT_MESSAGE" value="testing" />
+  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../demo/demo2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="5" selection-end-line="21" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../demo/send.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html" />
-    <entry file="file://$PROJECT_DIR$/package.json">
+    <entry file="file://$PROJECT_DIR$/min.js" />
+    <entry file="file://$PROJECT_DIR$/../demo/module/search-group.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1753" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../demo/module/get-all-join-group.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="62" column="96" selection-start-line="62" selection-start-column="89" selection-end-line="62" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../demo/module/search-page.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="66" column="74" selection-start-line="66" selection-start-column="67" selection-end-line="66" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../demo/module/get-id-liker/page.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="62" column="31" selection-start-line="62" selection-start-column="24" selection-end-line="62" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../vietnam/vietnam/app/crawl/min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3947" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/min_tmp/sendo.js" />
+    <entry file="file://$PROJECT_DIR$/min_tmp/shopee.js" />
+    <entry file="file://$PROJECT_DIR$/min_tmp/lazada.js" />
+    <entry file="file://$PROJECT_DIR$/../nguyentrungkien2018/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../search/search/controller/clone/clone_template/js/algoliasearch.min.js" />
+    <entry file="file://$PROJECT_DIR$/../demo/demo3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="2" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../demo/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="17" lean-forward="true" selection-end-line="45" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Facebook – log in or sign up.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="51" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../search/search/controller/clone/clone_template/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1802">
+          <caret line="163" column="39" selection-start-line="163" selection-start-column="39" selection-end-line="163" selection-end-column="39" />
+          <folding>
+            <element signature="n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#a#0;n#li#2;n#ul#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../olddata.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10013">
+          <caret line="589" selection-start-line="589" selection-end-line="589" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../demo/demo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="2" selection-end-line="13" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="37" selection-start-line="33" selection-start-column="37" selection-end-line="33" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../projectnodejs/demo.html" />
+    <entry file="file://$PROJECT_DIR$/../projectnodejs/demo.js" />
+    <entry file="file://$PROJECT_DIR$/../projectnodejs/server.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/request/request.js" />
+    <entry file="file://$PROJECT_DIR$/../toantroc/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="18" column="7" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="18" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sosanhgia-client/src/components/MainPanel.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3281">
+          <caret line="193" selection-start-line="169" selection-start-column="11" selection-end-line="193" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/price/compare.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="61" selection-start-line="6" selection-start-column="61" selection-end-line="6" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo.html" />
+    <entry file="file://$PROJECT_DIR$/nguyentrungkien.html" />
+    <entry file="file://$PROJECT_DIR$/../projectnodejs/nguyentrungkienpro/price/min.js" />
+    <entry file="file://$PROJECT_DIR$/../projectnodejs/nguyentrungkienpro/price/shop.js" />
+    <entry file="file://$PROJECT_DIR$/../projectnodejs/nguyentrungkienpro/route/routeIn.js" />
+    <entry file="file://$PROJECT_DIR$/route/routeIn.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="34" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../demo/demo4.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../projectnodejs/nguyentrungkienpro/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="12" column="33" lean-forward="true" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proxy/main.js" />
+    <entry file="file://$PROJECT_DIR$/../demo/module/get-all-friend.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="9" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proxy/gatherproxy/index.js" />
+    <entry file="file://$PROJECT_DIR$/../proxy/main/main___gatherproxy.com___.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="7" selection-start-line="36" selection-start-column="7" selection-end-line="36" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../proxy/open.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../proxy/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="127" column="21" selection-start-line="127" selection-start-column="21" selection-end-line="127" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.js" />
+    <entry file="file://$PROJECT_DIR$/price/min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1105">
+          <caret line="65" column="27" selection-start-line="52" selection-start-column="4" selection-end-line="65" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/mongo.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+          <caret line="4" column="37" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/price/shop.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2635">
+          <caret line="155" column="35" selection-start-line="155" selection-start-column="35" selection-end-line="155" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/restClient/lib/restClient.jar!/com/intellij/ws/rest/client/requests/collection/get-requests.http">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="30" lean-forward="true" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/demo.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+        <state relative-caret-position="51">
+          <caret line="3" column="29" lean-forward="true" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="24" selection-start-column="24" selection-end-column="24" />
         </state>
       </provider>
     </entry>
